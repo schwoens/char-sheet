@@ -1,0 +1,14 @@
+.flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.input {
+  display: inline-block;
+  min-width: 5rem;
+  min-height: 1rem;
+  background-color: red;
+}
