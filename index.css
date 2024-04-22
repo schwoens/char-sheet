@@ -10,5 +10,8 @@
   display: inline-block;
   min-width: 5rem;
   min-height: 1rem;
-  background-color: red;
+}
+
+.gap-2 {
+  gap: 0.5rem;
 }
